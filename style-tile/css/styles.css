@@ -28,16 +28,32 @@ section {
 /*Style Tile for Nia Tauvela*/
 
 .color-1 {
-	background: orange;
+	background: rgb(179, 33, 0);
 }
 
 .color-2 {
-	background: green;
+	background: rgb(32, 32, 32);
 }
 
 .color-3 {
-	background: yellow;
+	background: rgb(255, 213, 104);
 }
+
+.pattern-1 {
+	background: url("../img/eight-horns.png");
+	background-size: 75px;
+}
+
+.pattern-2 {
+	background: url("../img/symphony.png");
+	background-size: 100px;
+
+}
+
+.pattern-3 {
+	background: url("../img/wild-flowers.png");
+}
+
 
 /* Show Grid */
 .showgrid {
