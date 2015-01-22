@@ -26,17 +26,28 @@ section {
 
 
 /*Style Tile for Nia Tauvela*/
+body {
+	background: #202740;
+}
+
+h1 {
+	font-family: 'Vollkorn', serif;
+	color: #FFCE9E;
+}
 
 h2 {
-	font-family: 'Josefin Slab', serif;
+	font-family: 'Vollkorn', serif;
+	color: #FFCE9E;
 }
 
 h3 {
-	font-family: 'Varela Round', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	color: #8090BF;;
 }
 
 p {
-	font-family: 'Varela Round', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	color: #FFCE9E;
 }
 
 .color-1 {
