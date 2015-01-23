@@ -26,40 +26,41 @@ section {
 
 
 /*Style Tile for Nia Tauvela*/
-body {
-	background: #202740;
-}
+
 
 h1 {
-	font-family: 'Vollkorn', serif;
-	color: #FFCE9E;
+	margin: 0;
+	font-family: 'Unkempt', cursive;
+	color: #172240;
+	font-size: 48px;
+
 }
 
 h2 {
-	font-family: 'Vollkorn', serif;
-	color: #FFCE9E;
+	font-family: 'Unkempt', cursive;
+	color: #4665BF;
 }
 
 h3 {
-	font-family: 'Quicksand', sans-serif;
-	color: #8090BF;;
+	font-family: 'Ubuntu', sans-serif;
+	color: #5E87FF;
 }
 
 p {
-	font-family: 'Quicksand', sans-serif;
-	color: #FFCE9E;
+	font-family: 'Arvo', serif;
+	color: #675B50;
 }
 
 .color-1 {
-	background: #202740;
+	background: #172240;
 }
 
 .color-2 {
-	background: #8090BF;
+	background: #4665BF;
 }
 
 .color-3 {
-	background: #FFCE9E;
+	background: #5E87FF;
 }
 
 .pattern-1 {
