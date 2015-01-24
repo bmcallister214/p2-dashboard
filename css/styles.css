@@ -45,6 +45,15 @@
 	color: #675B50;
 }
 
-.eagle {
-	margin: 5px;
+body {
+	margin: 10px;
+	background: #172240;
+
+}
+
+.eagle p{
+	font-family: 'Lora', serif;
+	color: #4EA8BF;
+	font-size: 32px;
+	margin-bottom: 0;
 }
