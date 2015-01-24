@@ -30,24 +30,24 @@ section {
 
 h1 {
 	margin: 0;
-	font-family: 'Unkempt', cursive;
+	font-family: 'Lora', serif;
 	color: #172240;
 	font-size: 48px;
 
 }
 
 h2 {
-	font-family: 'Unkempt', cursive;
-	color: #4665BF;
+	font-family: 'Lora', serif;
+	color: #4EA8BF;
 }
 
 h3 {
-	font-family: 'Ubuntu', sans-serif;
-	color: #5E87FF;
+	font-family: 'Roboto', sans-serif;
+	color: #68E0FF;
 }
 
 p {
-	font-family: 'Arvo', serif;
+	font-family: 'Roboto', sans-serif;
 	color: #675B50;
 }
 
@@ -56,11 +56,11 @@ p {
 }
 
 .color-2 {
-	background: #4665BF;
+	background: #4EA8BF;
 }
 
 .color-3 {
-	background: #5E87FF;
+	background: #68E0FF;
 }
 
 .pattern-1 {
