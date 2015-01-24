@@ -11,10 +11,9 @@
 
 .ui th{
 	font-family: 'Lora', serif;
-	font-size: 32px;
+	font-size: 24px;
 	color: #172240;
 	padding: 5px;
-	text-align: left;
 }
 
 .ui td{
