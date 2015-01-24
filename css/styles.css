@@ -77,3 +77,9 @@
 .class {
 	background: #4EA8BF;
 }
+
+.canvas img{
+	max-width: 800px;
+	margin: 0;
+
+}
