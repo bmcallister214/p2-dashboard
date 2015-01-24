@@ -36,5 +36,9 @@
 }
 .todotable {
 	margin: 10px;
-	background: #4EA8BF;;
+	background: #4EA8BF;
+}
+
+.raised {
+	margin-left: 25px;
 }
