@@ -57,3 +57,23 @@
 	font-size: 32px;
 	margin-bottom: 0;
 }
+
+.table th{
+	font-family: 'Lora', serif;
+	color: #fff;
+	font-size: 24px;
+	padding: 10px;
+}
+
+.table {
+	text-align: center;
+}
+
+.table td {
+	font-family: 'Roboto', sans-serif;
+	color: #675B50;
+}
+
+.class {
+	background: #4EA8BF;
+}
