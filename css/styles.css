@@ -12,9 +12,9 @@
 .ui th{
 	font-family: 'Lora', serif;
 	font-size: 32px;
-	color: #68E0FF;
-	background: #172240;
+	color: #172240;
 	padding: 5px;
+	text-align: left;
 }
 
 .ui td{
@@ -28,7 +28,7 @@
 }
 
 .ui tr{
-	font-size: 24px;
+	font-size: 18px;
 }
 
 .td2 {
